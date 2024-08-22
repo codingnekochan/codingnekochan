@@ -24,6 +24,7 @@ I’m constantly pushing myself to learn new technologies by diving into project
 
 ### ✨ My Future Plans
 - Build more full-stack applications to get comfortable with both frontend and backend development.
+- Learn C, Python and Solidity
 - Contribute to open-source projects to give back to the community and grow as a developer.
 - Secure a role where I can apply my skills, keep learning, and collaborate with a team to create awesome products.
 
@@ -31,7 +32,7 @@ I’m constantly pushing myself to learn new technologies by diving into project
 I’m driven by curiosity and a desire to create. As someone who’s making a career switch, I’m no stranger to challenges, but I see them as opportunities to grow.
 
 ### ⚡ Fun fact
-When I'm not coding, I'm hanging out with my friends, watching anime/kdrama or trying out editorial makeup and face painting.
+When I’m not coding, I’m hanging out with my friends, reading a novel, watching anime/Kdramas, or trying out editorial makeup and face painting.
 
 
 ### 📬 Let’s Connect!
