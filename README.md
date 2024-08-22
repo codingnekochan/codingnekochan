@@ -37,7 +37,7 @@ When I’m not coding, I’m hanging out with my friends, reading a novel, watch
 
 ### 📬 Let’s Connect!
 I’d love to connect with fellow developers, mentors, or anyone interested in tech. You can reach out to me via:
-- [Email](codingnekochan@gmail.com)
+- [Email](mailto:codingnekochan@gmail.com)
 - [Twitter](https://x.com/codingnekochan)
 
 Feel free to explore my projects and drop me a message if you’d like to chat or collaborate.
