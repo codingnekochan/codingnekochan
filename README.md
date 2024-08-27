@@ -16,7 +16,7 @@ I’m constantly pushing myself to learn new technologies by diving into project
 - **Firebase:** I’ll be learning Firebase while building a full-stack entertainment web app with React. This project will include features like movie catalogs, watchlists, and more.
 - **Node.js, Express, PostgreSQL:** My goal is to build my first custom backend API and database with this stack to power some future apps.
 - **React Native:** I’m excited to eventually bring some of my web projects to mobile!
-- **Vue :** Because there's no such thing as knowng too much.
+- **Vue :** Because there's no such thing as knowing too much.
 
 ### 💻 Current Projects
 - **"Glos" - A Dictionary Web App:** This app goes beyond just definitions—think synonyms, antonyms, voice search, and even bookmarking features with IndexedDB.
