@@ -4,7 +4,7 @@ Welcome to my GitHub!
 I’m a **self-taught web developer** on a journey from civil engineering to the world of software development. I love solving problems, building meaningful projects, and always challenging myself to learn more.
 
 ### 🌱 A Bit About My Journey
-I started in civil engineering but quickly realized my passion lies in tech. Since then, I’ve dived deep into **web development** and have been exploring the vast possibilities of building digital products. My goal is to transition fully into software development and contribute to impactful projects.
+I started in civil engineering but quickly realized my passion lies in tech. Since then, I’ve gone deep into **web development** and have been exploring the vast possibilities of building digital products. My goal is to transition fully into software development and contribute to impactful projects.
 
 ### 🛠️ What I Currently Work With
 - **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
@@ -33,7 +33,8 @@ I’m constantly pushing myself to learn new technologies by diving into project
 I’m driven by curiosity and a desire to create. As someone who’s making a career switch, I’m no stranger to challenges, but I see them as opportunities to grow.
 
 ### ⚡ Fun fact
-When I’m not coding, I’m hanging out with my friends, reading a novel, watching anime/Kdramas, or trying out editorial makeup and face painting.
+- I love cats!
+- When I’m not coding, I’m hanging out with my friends, reading a novel, watching anime/Kdramas, or trying out editorial makeup and face painting.
 
 
 ### 📬 Let’s Connect!
