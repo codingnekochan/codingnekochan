@@ -21,11 +21,12 @@ I’m constantly pushing myself to learn new technologies by diving into project
 ### 💻 Current Projects
 - **"Glos" - A Dictionary Web App:** This app goes beyond just definitions—think synonyms, antonyms, voice search, and even bookmarking features with IndexedDB.
 - **CV Generator App:** A straightforward project where I’m using **React, Tailwind, html2canvas, and jsPDF** to create a user-friendly tool for generating CVs.
+- **Estatein:** A fully responsive website for a fictional real estate company where I'm using **React, Tailwind, and Framer Motion** to build fun,interactive pages.
 - **Entertainment Web App:** This is where I’m learning Firebase. It’s a movie catalog app built with React where users can explore movies, add them to their watchlists, and even categorize lists.
 
 ### ✨ My Future Plans
 - Build more full-stack applications to get comfortable with both frontend and backend development.
-- Learn C, Python and Solidity
+- Learn Python and C.
 - Contribute to open-source projects to give back to the community and grow as a developer.
 - Secure a role where I can apply my skills, keep learning, and collaborate with a team to create awesome products.
 
