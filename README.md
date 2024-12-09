@@ -7,15 +7,14 @@ I’m a **self-taught web developer** on a journey from civil engineering to the
 I started in civil engineering but quickly realized my passion lies in tech. Since then, I’ve gone deep into **web development** and have been exploring the vast possibilities of building digital products. My goal is to transition fully into software development and contribute to impactful projects.
 
 ### 🛠️ What I Currently Work With
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
-- **State Management:** React Hooks, Context API
-- **Tools & Platforms:** Git, GitHub, IndexedDB, REST APIs
+- **Frontend:** HTML, CSS, JavaScript, React/React Native, Tailwind/Nativewind CSS
+- **State Management:** React Hooks, Context API, Zustand
+- **Tools & Platforms:** Git, GitHub, IndexedDB, REST APIs, Tanstack React query
 
 ### 🚀 What I’m Learning Next
 I’m constantly pushing myself to learn new technologies by diving into projects that challenge me. Here’s what’s next on my list:
 - **Firebase:** I’ll be learning Firebase while building a full-stack entertainment web app with React. This project will include features like movie catalogs, watchlists, and more.
 - **Node.js, Express, PostgreSQL:** My goal is to build my first custom backend API and database with this stack to power some future apps.
-- **React Native:** I’m excited to eventually bring some of my web projects to mobile!
 - **Vue :** Because there's no such thing as knowing too much.
 
 ### 💻 Current Projects
