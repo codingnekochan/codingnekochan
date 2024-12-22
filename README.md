@@ -1,15 +1,15 @@
 # Hi there! 👋 I'm Mimi!
 
 Welcome to my GitHub! 
-I’m a **self-taught web developer** on a journey from civil engineering to the world of software development. I love solving problems, building meaningful projects, and always challenging myself to learn more.
+I’m a **self-taught developer** on a journey from civil engineering to the world of software development. I love solving problems, building meaningful projects, and always challenging myself to learn more.
 
 ### 🌱 A Bit About My Journey
-I started in civil engineering but quickly realized my passion lies in tech. Since then, I’ve gone deep into **web development** and have been exploring the vast possibilities of building digital products. My goal is to transition fully into software development and contribute to impactful projects.
+I started in civil engineering but quickly realized my passion lies in tech. Since then, I’ve gone deep into **frontend development** and have been exploring the vast possibilities of building digital products. My goal is to transition fully into software developement and contribute to impactful projects.
 
 ### 🛠️ What I Currently Work With
 - **Frontend:** HTML, CSS, JavaScript, React/React Native, Tailwind/Nativewind CSS
 - **State Management:** React Hooks, Context API, Zustand
-- **Tools & Platforms:** Git, GitHub, IndexedDB, REST APIs, Tanstack React query
+- **Tools & Platforms:** Git, GitHub, IndexedDB, REST APIs, Tanstack React query, Axios
 
 ### 🚀 What I’m Learning Next
 I’m constantly pushing myself to learn new technologies by diving into projects that challenge me. Here’s what’s next on my list:
@@ -19,9 +19,9 @@ I’m constantly pushing myself to learn new technologies by diving into project
 
 ### 💻 Current Projects
 - **"Glos" - A Dictionary Web App:** This app goes beyond just definitions—think synonyms, antonyms, voice search, and even bookmarking features with IndexedDB.
-- **CV Generator App:** A straightforward project where I’m using **React, Tailwind, html2canvas, and jsPDF** to create a user-friendly tool for generating CVs.
+- **CV Generator App:** A straightforward project where I’m used **React, Tailwind, html2canvas, and jsPDF** to create a user-friendly tool for generating CVs.
 - **Estatein:** A fully responsive website for a fictional real estate company where I'm using **React, Tailwind, and Framer Motion** to build fun,interactive pages.
-- **Entertainment Web App:** This is where I’m learning Firebase. It’s a movie catalog app built with React where users can explore movies, add them to their watchlists, and even categorize lists.
+- **"ShowDelve"- An Entertainment Web App:** This is where I’m learning Firebase. It’s a movie catalog app built with React where users can explore movies, add them to their watchlists, and even categorize lists.
 
 ### ✨ My Future Plans
 - Build more full-stack applications to get comfortable with both frontend and backend development.
